@@ -13,7 +13,7 @@
 
     // Simple Text Rotator
     $(".rotate").textrotator({
-      animation: "flipCube", // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin.
+      animation: "dissolve", // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin.
       separator: ",", // If you don't want commas to be the separator, you can define a new separator (|, &, * etc.) by yourself using this field.
       speed: 1500 // How many milliseconds until the next word show.
     });
@@ -22,7 +22,7 @@
     // Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
     $('#subscribe').ajaxChimp({
       language: 'lj',
-      url: 'http://eepurl.com/2L-5f'
+      url: 'http://bengfort.us9.list-manage1.com/subscribe/post?u=847b3e072b33c1b2b7e7637b5&id=611b02f2ea'
     });
 
     // Mailchimp translation

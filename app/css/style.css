@@ -43,7 +43,7 @@
 		text-rendering: optimizeLegibility;
 	}
 
-	a { 
+	a {
 		color: #4fc1e9;
 		transition: all 0.125s ease-in-out 0s;
 		-moz-transition: all 0.125s ease-in-out 0s;
@@ -69,17 +69,17 @@
 	.lj-float-right {
 		float: right;
 	}
-	
+
 	.lj-block-center {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 	}
-	
+
 	.lj-show {
 		display: block !important;
 	}
-	
+
 	.lj-hide {
 		display: none !important;
 		visibility: hidden !important;
@@ -105,7 +105,7 @@
 	p {
 		line-height: 1.5;
 	}
-    
+
 	.lj-text-uppercase {
 		text-transform: uppercase;
 	}
@@ -145,12 +145,12 @@
 	  	.lj-logo-1x {
 			display: none !important;
 		}
-		
+
 		.lj-logo-2x {
 			display: block !important;
 		}
 
-	} 
+	}
 
 
 
@@ -162,7 +162,7 @@
 		position: relative;
 		background-color: #212649 !important;
 	}
-	
+
 	header > .container {
 		height: 100%;
 		padding: 100px 20px;
@@ -175,37 +175,37 @@
 		top: 0;
 		left: 0;
 	}
-	
+
 	.lj-overlay {
 		width: 100%;
-		height: 100%;		
+		height: 100%;
 		position: absolute;
 		top: 0;
 		left: 0;
 	}
-	
+
 	.lj-background-repeat {
 	    background-repeat: repeat;
 	}
-	
+
 	.lj-background-no-repeat {
 		background-repeat: no-repeat;
 	}
-	
+
 	.lj-overlay-none {
 		display: none;
 		visibility: hidden;
 	}
-	
+
 	.lj-overlay-image {
 		background-image: url('../img/dots.png');
 		background-repeat: repeat;
 	}
-	
+
 	.lj-overlay-color {
 	    background-color: rgba(0,0,0,0.5);
 	}
-	
+
 	.lj-overlay-gradient {
 		background: -moz-linear-gradient(215deg,  rgba(0,204,255,0.8) 0%, rgba(196,255,0,0.8) 100%); /* FF3.6+ */
 		background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(0,204,255,0.8)), color-stop(100%,rgba(196,255,0,0.8))); /* Chrome,Safari4+ */
@@ -248,28 +248,28 @@
 		width: 20px;
 	}
 
-	.yt-controls a:hover { 
+	.yt-controls a:hover {
 		color: #4fc1e9;
 	}
-	
+
 	.lj-logo a,
 	.lj-logo img {
-		width: 100px;
-		height: 60px;
+		width: 168px;
+		height: 30px;
 	}
-	
+
 	.lj-logo a {
 		display: block;
 	}
-	
+
 	.lj-logo img {
 	    vertical-align: bottom;
 	}
-	
+
 	.lj-logo-1x {
 		display: block;
 	}
-	
+
 	.lj-logo-2x {
 		display: none;
 	}
@@ -277,7 +277,7 @@
 	.lj-title {
         margin-top: 30px;
     }
-    
+
     .lj-title h1 {
     	font-family: 'Raleway';
     	font-size: 3.5em;
@@ -286,7 +286,7 @@
         margin: 0;
         word-wrap: break-word;
     }
-    
+
     .lj-title span {
         color: #4fc1e9;
         font-weight: 700;
@@ -331,7 +331,7 @@
     	width: 270px;
     	height: 60px;
     	display: block;
-    	padding: 0 20px;    	
+    	padding: 0 20px;
     	background-color: #fff;
         border: 1px solid #fff;
 		-webkit-border-top-left-radius: 2px;
@@ -348,12 +348,12 @@
     .lj-subscribe-form input:focus {
     	outline: 0;
     }
-    
+
     .lj-subscribe-form input[type=submit] {
     	width: 130px;
     	height: 60px;
     	display: block;
-    	padding: 0 10px; 
+    	padding: 0 10px;
     	background-color: #4fc1e9;
         border: 1px solid #4fc1e9;
         color: #fff;
@@ -362,9 +362,9 @@
 		-moz-border-radius-topright: 2px;
 		-moz-border-radius-bottomright: 2px;
 		border-top-right-radius: 2px;
-		border-bottom-right-radius: 2px;        
+		border-bottom-right-radius: 2px;
 		font-family: 'Raleway';
-		font-weight: 700;	
+		font-weight: 700;
 		transition: all 0.125s ease-in-out 0s;
 		-moz-transition: all 0.125s ease-in-out 0s;
 		-webkit-transition: all 0.125s ease-in-out 0s;
@@ -399,10 +399,10 @@
 
     .lj-subscribe-message .fa-check {
     	color: #2ecc71;
-    }    
+    }
 
 
-    
+
 /* 6. ICONS */
 
 	.icons {
@@ -423,7 +423,7 @@
 		font-size: 2em;
 		border-radius: 50%;
 		text-align: center;
-		color: #4fc1e9;	
+		color: #4fc1e9;
 		background-color: #fff;
 	}
 
@@ -449,7 +449,7 @@
 	}
 
 	.lj-icon-box > a:hover {
-		color: #4fc1e9;	
+		color: #4fc1e9;
 	}
 
 	.lj-icon-box h3,
@@ -462,8 +462,8 @@
 		font-weight: 700;
 	}
 
-	
-	    
+
+
 /* 7. FOOTER */
 
 	footer {
@@ -509,7 +509,7 @@
 
 	.lj-footer-socials li a:hover {
 		background-color: #4fc1e9;
-		color: #fff;		
+		color: #fff;
 	}
 
 	.lj-footer-copyrights p {
